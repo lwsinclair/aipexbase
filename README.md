@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ying-nick-aipexbase-badge.png)](https://mseep.ai/app/ying-nick-aipexbase)
+
 # AIPEXBASE
 
 <p align="center">
